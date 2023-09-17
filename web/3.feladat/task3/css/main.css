@@ -1,0 +1,56 @@
+body{
+    background-color: bisque;
+    margin: 0px;
+    border: 0px;
+}
+
+.cyan{
+    position: absolute;
+    background-color: cyan;
+    width: 600px;
+    height: 100px;
+
+}
+.purple{
+    position: absolute;
+    background-color: purple;
+    top: 100px;
+    width: 100px;
+    height: 500px;
+   
+}
+.red{
+    
+    position: absolute;
+    background-color: red;
+    width: 300px;
+    height: 500px;
+    top: 100px;
+    left: 150px;
+}
+.orange{
+    position: absolute;
+    background-color: orange;
+    width: 100px;
+    height: 500px;
+    left: 500px;
+    top: 100px;
+}
+.blue{
+    
+    position: absolute;
+    background-color: blue;
+    width: 600px;
+    height: 100px;
+    top: 600px;
+}
+
+
+.black{
+    position: absolute;
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    top: 650px;
+    left: 1800px;
+}

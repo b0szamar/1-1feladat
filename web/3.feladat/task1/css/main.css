@@ -1,0 +1,39 @@
+body{
+    border: 30px;
+    width: 90%;
+    padding-left: 90px;
+    padding-top: 30px;
+    
+}
+.item{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    background-color: purple;
+    justify-content: flex-start;
+
+}
+.item2{
+    width: 100%;
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+
+}
+.zold{
+    background-color: green;
+    flex-grow: 1;
+}
+.yellow{
+    background-color: yellow;
+    flex-grow: 2;
+}
+.cyan{
+    background-color: cyan;
+    margin: 11px;
+    margin-left: 10px;
+    margin-right: 10px;
+    flex-grow: 0.06;
+    
+}
